@@ -1,0 +1,44 @@
+---
+ID: 459
+post_title: >
+  Europa elegirá navegador, ¿por qué es
+  importante?
+author: Nukeador
+post_excerpt: 'A partir del día 2 de marzo, 170 millones de europeos usuarios del Windows XP, Vista y Windows 7, verán aparecer en sus pantallas una nueva pantalla que les invitará a elegir su navegador. Para la mayoría de ellos, será una situación extraña, ya que no saben de la existencia de otras aplicaciones para ver [...]'
+layout: post
+permalink: >
+  http://www.mozilla-hispano.org/europa-elegira-navegador-porque-es-importante/
+published: true
+post_date: 2010-02-23 06:15:11
+---
+<p>A partir del día 2 de marzo, <strong>170 millones de europeos</strong> usuarios del Windows XP, Vista y Windows 7, verán aparecer en sus pantallas una nueva pantalla que les invitará a <strong>elegir su navegador</strong>. Para la mayoría de ellos, será una situación extraña, ya que no saben de la existencia de otras aplicaciones para ver la web, aparte del que siempre han usado (la E azul de Internet Explorer).<br />
+<a href="http://www.mozilla-hispano.org/wp-content/uploads/browserballot.png"><img class="aligncenter size-medium wp-image-1127 captura" title="Elección de navegador" src="http://www.mozilla-hispano.org/wp-content/uploads/browserballot-300x185.png" alt="" width="300" height="185" /></a></p>
+<h3>¿Por qué aparece esta pantalla?</h3>
+<p>La <strong>Comisión Europea</strong> llevaba mucho tiempo cobrando una multa a <strong>Microsoft</strong> por el <strong>abuso de posición dominante</strong> que supone incluir su navegador predeterminado en Windows, y <strong>entorpeciendo el desarrollo de la competencia</strong> mediante el desarrollo de características incompatibles que suponen un agravio para el resto de fabricantes. Por ello, ha sido <strong>obligada a presentar a todos sus usuarios la pantalla de elección de navegador</strong> con otras alternativas.</p>
+<h3>¿Realmente es importante?</h3>
+<p>Desde Mozilla creemos que <strong>la elección es algo importante</strong> ya que supone elegir la herramienta básica con la que te comunicas con tu vida en la red. Por eso se ha creado un blog, <a href="http://opentochoice.org/">Opentochoice.org</a>, para explicar su importancia, comenzando con una carta abierta de la mano de John Lilly y Mitchell Baker. Te recomendamos que te pases por ella y la leas detenidamente.</p>
+<h3>¿Qué navegador debería elegir?</h3>
+<p>El que mejor se adapte a tus necesidades. Por supuesto, <strong>creemos que Firefox es la mejor opción y es nuestra recomendación</strong>, y por ello también se ha creado <a href="http://browserchoice.mozilla.com/es-ES">una página que explica las ventajas de su elección</a> y la filosofía con la que se ha creado. Esta información se podrá encontrar también desde el enlace &#8220;Más información&#8221; de la pantalla de elección de navegador.</p>
+<p><a href="http://www.mozilla-hispano.org/wp-content/uploads/browserchoice.mozilla.png"><img class="aligncenter size-medium wp-image-1128 captura" title="Ventajas de elegir Firefox" src="http://www.mozilla-hispano.org/wp-content/uploads/browserchoice.mozilla-300x106.png" alt="" width="300" height="106" /></a>Curiosamente, de los 5 primeros navegadores que aparecen en la pantalla, <strong>Firefox es el único completamente libre</strong>, y que tiene detrás una fundación sin ánimo de lucro cuya misión es la <strong>apertura e innovación en la red</strong>, como así se explica en el <a href="http://www.mozilla.org/about/manifesto">Mozilla Manifesto</a>. Más allá de las características técnicas de cada navegador, es realmente importante ver quién está detrás y cuál es su filosofía ante la <strong>libertad y la privacidad</strong> de sus usuarios.</p>
+<h3>¿Cómo puedo ayudar?</h3>
+<p>Es muy importante que <strong>hables a todos tus familiares y conocidos sobre esta pantalla</strong> que seguramente les va a aparecer y que posiblemente no sepan ni que significa, ni las <strong>implicaciones que pueden llegar a tener</strong> la simple elección de su navegador. Puedes usar las redes sociales habituales para difundir el mensaje, enlazando este artículo o la carta abierta en opentochoice.org.</p>
+
+
+
+
+	<a rel="nofollow" class="thickbox" href="http://delicious.com/post?url=http://www.mozilla-hispano.org/europa-elegira-navegador-porque-es-importante/&amp;title=Europa%20elegir%C3%A1%20navegador,%20%C2%BFpor%20qu%C3%A9%20es%20importante?&amp;notes=A%20partir%20del%20d%C3%ADa%202%20de%20marzo,%20170%20millones%20de%20europeos%20usuarios%20del%20Windows%20XP,%20Vista%20y%20Windows%207,%20ver%C3%A1n%20aparecer%20en%20sus%20pantallas%20una%20nueva%20pantalla%20que%20les%20invitar%C3%A1%20a%20elegir%20su%20navegador.%20Para%20la%20mayor%C3%ADa%20de%20ellos,%20ser%C3%A1%20una%20situaci%C3%B3n%20extra%C3%B1a,%20?TB_iframe=true&amp;height=500&amp;width=900"><img src="http://www.mozilla-hispano.org/wp-content/plugins/sociable/images/delicious.png" title="del.icio.us" alt="del.icio.us" class="sociable-hovers" /></a>
+	<a rel="nofollow" class="thickbox" href="http://www.facebook.com/share.php?u=http://www.mozilla-hispano.org/europa-elegira-navegador-porque-es-importante/&amp;t=Europa%20elegir%C3%A1%20navegador,%20%C2%BFpor%20qu%C3%A9%20es%20importante??TB_iframe=true&amp;height=500&amp;width=900"><img src="http://www.mozilla-hispano.org/wp-content/plugins/sociable/images/facebook.png" title="Facebook" alt="Facebook" class="sociable-hovers" /></a>
+	<a rel="nofollow" class="thickbox" href="http://www.google.com/bookmarks/mark?op=edit&amp;bkmk=http://www.mozilla-hispano.org/europa-elegira-navegador-porque-es-importante/&amp;title=Europa%20elegir%C3%A1%20navegador,%20%C2%BFpor%20qu%C3%A9%20es%20importante?&amp;annotation=A%20partir%20del%20d%C3%ADa%202%20de%20marzo,%20170%20millones%20de%20europeos%20usuarios%20del%20Windows%20XP,%20Vista%20y%20Windows%207,%20ver%C3%A1n%20aparecer%20en%20sus%20pantallas%20una%20nueva%20pantalla%20que%20les%20invitar%C3%A1%20a%20elegir%20su%20navegador.%20Para%20la%20mayor%C3%ADa%20de%20ellos,%20ser%C3%A1%20una%20situaci%C3%B3n%20extra%C3%B1a,%20?TB_iframe=true&amp;height=500&amp;width=900"><img src="http://www.mozilla-hispano.org/wp-content/plugins/sociable/images/googlebookmark.png" title="Google Bookmarks" alt="Google Bookmarks" class="sociable-hovers" /></a>
+	<a rel="nofollow" class="thickbox" href="http://barrapunto.com/submit.pl?subj=Europa%20elegir%C3%A1%20navegador,%20%C2%BFpor%20qu%C3%A9%20es%20importante?&amp;story=http://www.mozilla-hispano.org/europa-elegira-navegador-porque-es-importante/?TB_iframe=true&amp;height=500&amp;width=900"><img src="http://www.mozilla-hispano.org/wp-content/plugins/sociable/images/barrapunto.png" title="BarraPunto" alt="BarraPunto" class="sociable-hovers" /></a>
+	<a rel="nofollow" class="thickbox" href="http://bitacoras.com/anotaciones/http%3A//www.mozilla-hispano.org/europa-elegira-navegador-porque-es-importante/?TB_iframe=true&amp;height=500&amp;width=900"><img src="http://www.mozilla-hispano.org/wp-content/plugins/sociable/images/bitacoras.png" title="Bitacoras.com" alt="Bitacoras.com" class="sociable-hovers" /></a>
+	<a rel="nofollow"  href="mailto:?subject=Europa%20elegir%C3%A1%20navegador,%20%C2%BFpor%20qu%C3%A9%20es%20importante?&amp;body=http://www.mozilla-hispano.org/europa-elegira-navegador-porque-es-importante/" title="email"><img src="http://www.mozilla-hispano.org/wp-content/plugins/sociable/images/email_link.png" title="email" alt="email" class="sociable-hovers" /></a>
+	<a rel="nofollow"  href="http://meneame.net/submit.php?url=http://www.mozilla-hispano.org/europa-elegira-navegador-porque-es-importante/" title="Meneame"><img src="http://www.mozilla-hispano.org/wp-content/plugins/sociable/images/meneame.png" title="Meneame" alt="Meneame" class="sociable-hovers" /></a>
+	<a rel="nofollow"  href="http://twitter.com/home?status=Europa%20elegir%C3%A1%20navegador,%20%C2%BFpor%20qu%C3%A9%20es%20importante?%20-%20http://www.mozilla-hispano.org/europa-elegira-navegador-porque-es-importante/" title="Twitter"><img src="http://www.mozilla-hispano.org/wp-content/plugins/sociable/images/twitter.png" title="Twitter" alt="Twitter" class="sociable-hovers" /></a>
+
+
+<br/><br/>
+
+<p>Artículos relacionados:<ul><li><a href='http://www.mozilla-hispano.org/la-cuota-de-mercado-de-firefox-en-europa-sigue-creciendo/' rel='bookmark' title='Permanent Link: La cuota de mercado de Firefox en Europa sigue creciendo'>La cuota de mercado de Firefox en Europa sigue creciendo</a></li>
+<li><a href='http://www.mozilla-hispano.org/firefox-308-actualizacion-importante/' rel='bookmark' title='Permanent Link: Firefox 3.0.8 &#8211; Actualización importante'>Firefox 3.0.8 &#8211; Actualización importante</a></li>
+<li><a href='http://www.mozilla-hispano.org/mozilla-camp-europa-09-la-cronica/' rel='bookmark' title='Permanent Link: Mozilla Camp Europa 09, la crónica'>Mozilla Camp Europa 09, la crónica</a></li>
+</ul></p>
