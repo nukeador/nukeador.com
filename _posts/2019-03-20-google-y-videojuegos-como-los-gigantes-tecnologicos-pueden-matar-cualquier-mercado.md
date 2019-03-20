@@ -2,7 +2,12 @@
 ID: 1832
 post_title: 'Google y videojuegos: Como los gigantes tecnológicos pueden matar cualquier mercado'
 author: Nukeador
-post_excerpt: ""
+post_excerpt: >
+  El poder económico de los gigantes
+  tecnológicos les permite entrar en
+  mercados en los que antes no estaban
+  presentes y hacerse con el mercado
+  completamente en muy poco tiempo.
 layout: post
 permalink: >
   https://www.nukeador.com/20/03/2019/google-y-videojuegos-como-los-gigantes-tecnologicos-pueden-matar-cualquier-mercado/
