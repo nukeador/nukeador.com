@@ -226,7 +226,7 @@ https://www.youtube.com/watch?v=E_vAIPkVTHE
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Feel free to reach out to me via email (rmartin at mozilla dot com) or <a href="http://twitter.com/nukeador">twitter</a> if you have questions or feedback, I also really want to know and hear from others solving similar problems.&nbsp;<br></p>
+<p>Feel free to reach out to me via email (nukeador at protonmail dot com) or <a href="http://twitter.com/nukeador">twitter</a> if you have questions or feedback, I also really want to know and hear from others solving similar problems. <br></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
