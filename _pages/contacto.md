@@ -10,7 +10,7 @@ post_date: 2006-09-28 19:03:54
 ---
 Si deseas contactar conmigo puedes enviarme un correo a la siguiente dirección:
 <p style="text-align: center;"><em><a title="¡Contacta!" href="mailto:" data-external="true">nukeador ARROBA protonmail PUNTO com</a></em></p>
-Si deseas comprobar la autenticidad de mis correos o mandarme un correo cifrado (a ser posible hazlo si tu cliente te lo permite), puedes usar <a href="/pgp/">mi clave pública</a>
+Para comprobar la autenticidad de mis correos o mandarme un correo cifrado (a ser posible hazlo si tu cliente te lo permite), puedes usar <a href="/pgp/">mi clave pública</a>
 
 <strong>Proyectos</strong>
 
