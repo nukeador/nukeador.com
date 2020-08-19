@@ -34,9 +34,9 @@ post_date: 2020-08-19 19:38:04
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
 
-<!-- wp:columns -->
-<div class="wp-block-columns"><!-- wp:column {"width":66.66} -->
-<div class="wp-block-column" style="flex-basis:66.66%"><!-- wp:heading {"textColor":"vivid-cyan-blue","fontSize":"normal"} -->
+<!-- wp:columns {"verticalAlignment":"top"} -->
+<div class="wp-block-columns are-vertically-aligned-top"><!-- wp:column {"verticalAlignment":"top","width":66.66} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:66.66%"><!-- wp:heading {"textColor":"vivid-cyan-blue","fontSize":"normal"} -->
 <h2 class="has-vivid-cyan-blue-color has-text-color has-normal-font-size"><strong>EXPERIENCE</strong></h2>
 <!-- /wp:heading -->
 
@@ -77,10 +77,10 @@ post_date: 2020-08-19 19:38:04
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
-<!-- wp:column {"width":33.33} -->
-<div class="wp-block-column" style="flex-basis:33.33%"><!-- wp:paragraph {"textColor":"vivid-cyan-blue","fontSize":"normal"} -->
-<p class="has-vivid-cyan-blue-color has-text-color has-normal-font-size"><strong>KEY STRENGTHS</strong></p>
-<!-- /wp:paragraph -->
+<!-- wp:column {"verticalAlignment":"top","width":33.33} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:33.33%"><!-- wp:heading {"textColor":"vivid-cyan-blue","fontSize":"normal"} -->
+<h2 class="has-vivid-cyan-blue-color has-text-color has-normal-font-size"><strong>KEY STRENGTHS</strong></h2>
+<!-- /wp:heading -->
 
 <!-- wp:paragraph {"style":{"color":{"text":"#666666"}}} -->
 <p class="has-text-color" style="color:#666666">Impact-driven</p>
@@ -161,7 +161,7 @@ post_date: 2020-08-19 19:38:04
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><a href="https://www.nukeador.com/23/01/2020/modernizing-communities-the-mozilla-way/">Led the modernization of Mozilla’s global communities</a> aligning contributor motivation to organizational needs and priorities, and, by designing impactful opportunities for contribution, I unlocked Mozilla’s communities as a powerhouse of innovation. As an example -  In <a href="https://community.mozilla.org/es/campaigns/help-firefox-win-on-android-support-users-in-your-language/">the PlayStore Support Campaign</a>, 431 volunteers replied to 2200 reviews in a week in 9 languages, or the Firefox Preview Bug Hunter Campaign with more than 500 issues filed and 8000 installs in just two weeks that were fundamental to launch this browser to the market.</p>
+<p><a href="https://www.nukeador.com/23/01/2020/modernizing-communities-the-mozilla-way/">Led the modernization of Mozilla’s global communities</a> aligning contributor motivation to organizational needs and priorities, and, by designing impactful opportunities for contribution, I unlocked Mozilla’s communities as a powerhouse of innovation. As an example -&nbsp; In <a href="https://community.mozilla.org/es/campaigns/help-firefox-win-on-android-support-users-in-your-language/">the PlayStore Support Campaign</a>, 431 volunteers replied to 2200 reviews in a week in 9 languages, or the Firefox Preview Bug Hunter Campaign with more than 500 issues filed and 8000 installs in just two weeks that were fundamental to launch this browser to the market.</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
