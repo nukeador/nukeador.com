@@ -15,6 +15,14 @@ permalink: >
 published: true
 post_date: 2020-01-23 16:47:50
 ---
+<!-- wp:paragraph {"align":"center","style":{"color":{"background":"#fff9e9"}}} -->
+<p class="has-text-align-center has-background" style="background-color:#fff9e9"><a href="https://www.nukeador.com/resume/" data-type="page" data-id="2167">Please check my full resume for more details about my work</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
 <!-- wp:paragraph -->
 <p>It’s been a long time since I’ve wanted to write deeply about my work empowering communities. I want to start with this article sharing some high-level learnings around working on community strategy.</p>
 <!-- /wp:paragraph -->
@@ -226,7 +234,7 @@ https://www.youtube.com/watch?v=E_vAIPkVTHE
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Feel free to reach out to me via email (nukeador at protonmail dot com) or <a href="http://twitter.com/nukeador">twitter</a> if you have questions or feedback, I also really want to know and hear from others solving similar problems. <br></p>
+<p>Feel free to reach out to me via email (nukeador at protonmail dot com) or <a href="http://twitter.com/nukeador">twitter</a> if you have questions or feedback, I also really want to know and hear from others solving similar problems.&nbsp;<br></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
