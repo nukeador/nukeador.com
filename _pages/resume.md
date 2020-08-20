@@ -61,7 +61,7 @@ post_date: 2020-08-19 19:38:04
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>In the Community Development team, I led the execution of community engagements, and leveraged my past volunteer experience founding programs such as <a href="https://community.mozilla.org/es/groups/mozilla-reps/">Mozilla Reps</a> or the <a href="https://community.mozilla.org/groups/mozilla-hispano/">Mozilla Spanish community</a>, I optimized workflows, channels, and documentation which resulted in increased visibility of the contributors’ work, high-efficiency in administrative processes and tangible impact on organizational goals by external collaborations.</p>
+<p>In the Community Development team, I led the execution of community engagements, and leveraged my past volunteer experience founding programs such as <a href="https://community.mozilla.org/groups/mozilla-reps/">Mozilla Reps</a> or the <a href="https://community.mozilla.org/groups/mozilla-hispano/">Mozilla Spanish community</a>, I optimized workflows, channels, and documentation which resulted in increased visibility of the contributors’ work, high-efficiency in administrative processes and tangible impact on organizational goals by external collaborations.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"style":{"typography":{"fontSize":18}}} -->
