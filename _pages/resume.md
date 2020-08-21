@@ -124,6 +124,22 @@ post_date: 2020-08-19 19:38:04
 
 <!-- wp:paragraph {"style":{"color":{"text":"#666666"}}} -->
 <p class="has-text-color" style="color:#666666">English</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"textColor":"vivid-cyan-blue"} -->
+<p class="has-vivid-cyan-blue-color has-text-color"><strong>Trainings</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>TRIBE: Leadership</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Debian Hiring</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
