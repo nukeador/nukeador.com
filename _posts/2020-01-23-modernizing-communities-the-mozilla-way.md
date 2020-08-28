@@ -59,8 +59,8 @@ post_date: 2020-01-23 16:47:50
 <h3>The roots, how did we get here?</h3>
 <!-- /wp:heading -->
 
-<!-- wp:image -->
-<figure class="wp-block-image"><img src="https://lh5.googleusercontent.com/uB6Cw4fhZjLJk4BwzjexWQj4CaqR7srwA_YS3532I1AdAvjeRNFsMJYSpg6eyg-UfwoQXHtE4v0CnODMnIWoKJq484welPrVc-CpQ241pBGTfx57wmAGfj3dRiwBrG1EVnvxHtZo" alt=""/><figcaption><a href="https://www.flickr.com/photos/18579892@N07/5349972759"><em>"IMG_2255"</em></a><em> by</em><a href="https://www.flickr.com/photos/18579892@N07"><em> Janellie</em></a><em> is licensed under</em><a href="https://creativecommons.org/licenses/by-nc-nd/2.0/?ref=ccsearch&amp;atype=rich"><em> CC BY-NC-ND 2.0</em></a></figcaption></figure>
+<!-- wp:image {"id":2215,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://www.nukeador.com/wp-content/uploads/2020/08/IMG_20200828_182241.png" alt="" class="wp-image-2215"/><figcaption><a href="https://www.flickr.com/photos/18579892@N07/5349972759"><em>"IMG_2255"</em></a><em> by</em><a href="https://www.flickr.com/photos/18579892@N07"><em> Janellie</em></a><em> is licensed under</em><a href="https://creativecommons.org/licenses/by-nc-nd/2.0/?ref=ccsearch&amp;atype=rich"><em> CC BY-NC-ND 2.0</em></a></figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -83,8 +83,8 @@ post_date: 2020-01-23 16:47:50
 <h3>Impact and humanizing the data-driven approach</h3>
 <!-- /wp:heading -->
 
-<!-- wp:image -->
-<figure class="wp-block-image"><img src="https://lh5.googleusercontent.com/g015Zsh_yQ5JK1VQ52eNc_I9k5lrbMzjIa3mSe9Si3xcLe4xcbVyNsk4yF3BgrITs7i7kLC2yJdYLcsPPk0mXB1Z5W_zq_PnK96xUn3MmNJwq2bdw1j7HUC24RKkRxN8Fk-uvaxR" alt=""/><figcaption><a href="https://www.flickr.com/photos/57258627@N00/8154200579"><em>"Interview with David LePôle for Databit.me"</em></a><em> by</em><a href="https://www.flickr.com/photos/57258627@N00"><em> hellocatfood</em></a><em> is licensed under</em><a href="https://creativecommons.org/licenses/by-nc-sa/2.0/?ref=ccsearch&amp;atype=rich"><em> CC BY-NC-SA 2.0</em></a></figcaption></figure>
+<!-- wp:image {"id":2216,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://www.nukeador.com/wp-content/uploads/2020/08/IMG_20200828_182225.png" alt="" class="wp-image-2216"/><figcaption><a href="https://www.flickr.com/photos/57258627@N00/8154200579"><em>"Interview with David LePôle for Databit.me"</em></a><em> by</em><a href="https://www.flickr.com/photos/57258627@N00"><em> hellocatfood</em></a><em> is licensed under</em><a href="https://creativecommons.org/licenses/by-nc-sa/2.0/?ref=ccsearch&amp;atype=rich"><em> CC BY-NC-SA 2.0</em></a></figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -147,8 +147,8 @@ post_date: 2020-01-23 16:47:50
 <h3>Open by default vs open by design</h3>
 <!-- /wp:heading -->
 
-<!-- wp:image -->
-<figure class="wp-block-image"><img src="https://lh5.googleusercontent.com/83hF6l1Ef7HDRLw_7BVQmERWLalJClXa7jihJsLdOTBVzhGZN983zjZr1tS903YiVL19uT2AF-Pfo6HvHvJNRe0EySUoL3iey4Lfp8BRFUrBKozqI6AcuhO2k-0g8onOo_bFSghk" alt=""/><figcaption><a href="https://www.flickr.com/photos/37996646802@N01/35638700421"><em>"Sometimes Open Needs a Push"</em></a><em> by</em><a href="https://www.flickr.com/photos/37996646802@N01"><em> cogdogblog</em></a><em> is licensed under</em><a href="https://creativecommons.org/licenses/CC0/1.0/?ref=ccsearch&amp;atype=rich"><em> CC0 1.0</em></a></figcaption></figure>
+<!-- wp:image {"id":2217,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://www.nukeador.com/wp-content/uploads/2020/08/IMG_20200828_182248.png" alt="" class="wp-image-2217"/><figcaption><a href="https://www.flickr.com/photos/37996646802@N01/35638700421"><em>"Sometimes Open Needs a Push"</em></a><em> by</em><a href="https://www.flickr.com/photos/37996646802@N01"><em> cogdogblog</em></a><em> is licensed under</em><a href="https://creativecommons.org/licenses/CC0/1.0/?ref=ccsearch&amp;atype=rich"><em> CC0 1.0</em></a></figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -167,8 +167,8 @@ post_date: 2020-01-23 16:47:50
 <h3>The contributor experience</h3>
 <!-- /wp:heading -->
 
-<!-- wp:image -->
-<figure class="wp-block-image"><img src="https://lh3.googleusercontent.com/bT-qySc-tyvVXvj6x2Dod_qaSo3zPjPl6qpStd9-whoq21HFfAt_mgTR9Iwy5g2r8l5E55wz1Ftv1GlBic55CYM7muWTzOiSHdQHSTVrk63c8g6-_OQnaxyz64Ex81taNjSfnF8_" alt=""/></figure>
+<!-- wp:image {"id":2218,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://www.nukeador.com/wp-content/uploads/2020/08/IMG_20200828_182303.jpg" alt="" class="wp-image-2218"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
