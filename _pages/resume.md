@@ -29,7 +29,15 @@ post_date: 2020-08-19 19:38:04
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
+<p>🔗 <a href="https://www.linkedin.com/in/ruben-rmt/">LinkedIn</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
 <p>📄 <a href="https://www.nukeador.com/wp-content/uploads/2020/08/rubenmartin-resume.pdf">Download</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
