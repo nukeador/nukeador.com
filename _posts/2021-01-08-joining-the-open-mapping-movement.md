@@ -22,6 +22,10 @@ post_date: 2021-01-08 11:50:57
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
+<p><em>(<a href="https://www.nukeador.com/08/01/2021/uniendome-al-movimiento-open-mapping/">Versión en español</a>)</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
 <p>I’m happy to announce that this week I’ve joined the Humanitarian OpenStreetMap Team as <a href="https://www.hotosm.org/people/ruben-martin/">Community Strategist and Research Lead</a>.</p>
 <!-- /wp:paragraph -->
 
