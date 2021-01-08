@@ -2,7 +2,11 @@
 ID: 2249
 post_title: Joining the Open Mapping Movement
 author: Nukeador
-post_excerpt: ""
+post_excerpt: >
+  I’m happy to announce that this week
+  I’ve joined the Humanitarian
+  OpenStreetMap Team as Community
+  Strategist and Research Lead.
 layout: post
 permalink: >
   https://www.nukeador.com/08/01/2021/joining-the-open-mapping-movement/
@@ -10,7 +14,7 @@ published: true
 post_date: 2021-01-08 11:50:57
 ---
 <!-- wp:paragraph {"align":"center"} -->
-<p class="has-text-align-center"><img width="361" height="138" src="https://lh3.googleusercontent.com/_klKPOZBLwyu0yI5XI3nF8JO3jJd0BFbEV-O7DDFP2nxUZsBW7jwOAmcS9H-prggttwz7LXc5FGw9Gla89TFivWNg_fP6m2xRmpbBzFAgclVoExtD10dVFWVouB_NrcVPlokPSRS"></p>
+<p class="has-text-align-center"><img src="https://lh3.googleusercontent.com/_klKPOZBLwyu0yI5XI3nF8JO3jJd0BFbEV-O7DDFP2nxUZsBW7jwOAmcS9H-prggttwz7LXc5FGw9Gla89TFivWNg_fP6m2xRmpbBzFAgclVoExtD10dVFWVouB_NrcVPlokPSRS" width="361" height="138"></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -26,7 +30,7 @@ post_date: 2021-01-08 11:50:57
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"align":"center"} -->
-<p class="has-text-align-center"><img width="624" height="327" src="https://lh3.googleusercontent.com/aUbi0NQVrAJnGKYZLf6CNNuO5wHcTb9zswnbo4xZUHKHWg6gTEQr9mFnyKh3j5UeKeQNopMdbS21LGgAXlgVmxxd7Q7XjAQHGlE6ZdfqKFYGgmLcwpSM1SyQXAfF_SqzJbJW-5JV"></p>
+<p class="has-text-align-center"><img src="https://lh3.googleusercontent.com/aUbi0NQVrAJnGKYZLf6CNNuO5wHcTb9zswnbo4xZUHKHWg6gTEQr9mFnyKh3j5UeKeQNopMdbS21LGgAXlgVmxxd7Q7XjAQHGlE6ZdfqKFYGgmLcwpSM1SyQXAfF_SqzJbJW-5JV" width="624" height="327"></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -34,7 +38,7 @@ post_date: 2021-01-08 11:50:57
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>I’m especially proud to have the chance to be part of this open mapping movement and help <strong>produce open data that will be available publicly in <a href="https://www.openstreetmap.org/">OpenStreetMap</a></strong>, learning from and connecting with existing and new communities, as well as sharing and supporting through my experience with open source communities for more than 16 years now. </p>
+<p>I’m especially proud to have the chance to be part of this open mapping movement and help <strong>produce open data that will be available publicly in <a href="https://www.openstreetmap.org/">OpenStreetMap</a></strong>, learning from and connecting with existing and new communities, as well as sharing and supporting through my experience with open source communities for more than 16 years now.&nbsp;</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
