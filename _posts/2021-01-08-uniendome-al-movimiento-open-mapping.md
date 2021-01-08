@@ -58,7 +58,7 @@ post_date: 2021-01-08 12:21:55
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"align":"center"} -->
-<p class="has-text-align-center"><em><strong><em><strong>¿Tiene curiosidad por saber cómo participar en el fantástico movimiento de Open Mapping con fines humanitarios?</strong></em></strong></em></p>
+<p class="has-text-align-center"><em><strong><em><strong>¿Tienes curiosidad por saber cómo participar en el fantástico movimiento de Open Mapping con fines humanitarios?</strong></em></strong></em></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":2250,"width":121,"height":121,"sizeSlug":"large","linkDestination":"media"} -->
