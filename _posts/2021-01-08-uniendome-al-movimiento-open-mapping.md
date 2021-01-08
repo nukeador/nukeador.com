@@ -18,6 +18,10 @@ post_date: 2021-01-08 12:21:55
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
+<p><em>(<a href="https://www.nukeador.com/08/01/2021/joining-the-open-mapping-movement/">English version</a>)</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
 <p>Me alegra anunciar que esta semana me uní al Humanitarian OpenStreetMap Team como <a href="https://www.hotosm.org/people/ruben-martin/">responsable de estrategia y estudios comunitarios.</a></p>
 <!-- /wp:paragraph -->
 
@@ -42,7 +46,7 @@ post_date: 2021-01-08 12:21:55
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Estoy especialmente orgulloso de tener la oportunidad de ser parte de este movimiento de mapeo abierto y ayudar a <strong>producir datos abiertos que estarán disponibles públicamente en <a href="https://www.openstreetmap.org/">OpenStreetMap</a></strong>, aprendiendo y conectando con comunidades nuevas y existentes, así como compartiendo y apoyando a través de mi experiencia con comunidades de software libre desde hace más de 16 años. </p>
+<p>Estoy especialmente orgulloso de tener la oportunidad de ser parte de este movimiento de mapeo abierto y ayudar a <strong>producir datos abiertos que estarán disponibles públicamente en <a href="https://www.openstreetmap.org/">OpenStreetMap</a></strong>, aprendiendo y conectando con comunidades nuevas y existentes, así como compartiendo y apoyando a través de mi experiencia con comunidades de software libre desde hace más de 16 años.&nbsp;</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
