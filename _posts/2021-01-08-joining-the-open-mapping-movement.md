@@ -14,8 +14,12 @@ published: true
 post_date: 2021-01-08 11:50:57
 ---
 <!-- wp:paragraph {"align":"center"} -->
-<p class="has-text-align-center"><img src="https://lh3.googleusercontent.com/_klKPOZBLwyu0yI5XI3nF8JO3jJd0BFbEV-O7DDFP2nxUZsBW7jwOAmcS9H-prggttwz7LXc5FGw9Gla89TFivWNg_fP6m2xRmpbBzFAgclVoExtD10dVFWVouB_NrcVPlokPSRS" width="361" height="138"></p>
+<p class="has-text-align-center"></p>
 <!-- /wp:paragraph -->
+
+<!-- wp:image {"align":"center","id":2260,"width":261,"height":100,"sizeSlug":"large","linkDestination":"media"} -->
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><a href="https://www.nukeador.com/wp-content/uploads/2021/01/hotosm.png"><img src="https://www.nukeador.com/wp-content/uploads/2021/01/hotosm.png" alt="" class="wp-image-2260" width="261" height="100"/></a></figure></div>
+<!-- /wp:image -->
 
 <!-- wp:paragraph -->
 <p>I’m happy to announce that this week I’ve joined the Humanitarian OpenStreetMap Team as <a href="https://www.hotosm.org/people/ruben-martin/">Community Strategist and Research Lead</a>.</p>
@@ -30,8 +34,12 @@ post_date: 2021-01-08 11:50:57
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"align":"center"} -->
-<p class="has-text-align-center"><img src="https://lh3.googleusercontent.com/aUbi0NQVrAJnGKYZLf6CNNuO5wHcTb9zswnbo4xZUHKHWg6gTEQr9mFnyKh3j5UeKeQNopMdbS21LGgAXlgVmxxd7Q7XjAQHGlE6ZdfqKFYGgmLcwpSM1SyQXAfF_SqzJbJW-5JV" width="624" height="327"></p>
+<p class="has-text-align-center"></p>
 <!-- /wp:paragraph -->
+
+<!-- wp:image {"align":"center","id":2261,"sizeSlug":"large","linkDestination":"media"} -->
+<div class="wp-block-image"><figure class="aligncenter size-large"><a href="https://www.nukeador.com/wp-content/uploads/2021/01/disaster-response.png"><img src="https://www.nukeador.com/wp-content/uploads/2021/01/disaster-response-1024x535.png" alt="" class="wp-image-2261"/></a></figure></div>
+<!-- /wp:image -->
 
 <!-- wp:paragraph -->
 <p>We are and will continue supporting mapping the unmapped, <strong>with special focus in empowering local, on the ground, mapping</strong>. This brings a key resource to NGOs, humanitarian organizations, governments, civil society and other actors to make interventions that will keep <strong>improving and saving lives around the world</strong>.</p>
