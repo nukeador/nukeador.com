@@ -17,8 +17,8 @@ post_date: 2021-01-08 11:50:57
 <p class="has-text-align-center"></p>
 <!-- /wp:paragraph -->
 
-<!-- wp:image {"align":"center","id":2260,"width":261,"height":100,"sizeSlug":"large","linkDestination":"media"} -->
-<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><a href="https://www.nukeador.com/wp-content/uploads/2021/01/hotosm.png"><img src="https://www.nukeador.com/wp-content/uploads/2021/01/hotosm.png" alt="" class="wp-image-2260" width="261" height="100"/></a></figure></div>
+<!-- wp:image {"align":"center","id":2260,"width":261,"height":100,"sizeSlug":"large","linkDestination":"none"} -->
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img src="https://www.nukeador.com/wp-content/uploads/2021/01/hotosm.png" alt="" class="wp-image-2260" width="261" height="100"/></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -37,8 +37,8 @@ post_date: 2021-01-08 11:50:57
 <p class="has-text-align-center"></p>
 <!-- /wp:paragraph -->
 
-<!-- wp:image {"align":"center","id":2261,"sizeSlug":"large","linkDestination":"media"} -->
-<div class="wp-block-image"><figure class="aligncenter size-large"><a href="https://www.nukeador.com/wp-content/uploads/2021/01/disaster-response.png"><img src="https://www.nukeador.com/wp-content/uploads/2021/01/disaster-response-1024x535.png" alt="" class="wp-image-2261"/></a></figure></div>
+<!-- wp:image {"align":"center","id":2261,"sizeSlug":"large","linkDestination":"none"} -->
+<div class="wp-block-image"><figure class="aligncenter size-large"><img src="https://www.nukeador.com/wp-content/uploads/2021/01/disaster-response-1024x535.png" alt="" class="wp-image-2261"/></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
